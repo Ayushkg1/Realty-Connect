@@ -1,7 +1,5 @@
-# Real_Estate
+# Realty Connect: Streamlining Property Search
 
-I have done this project using Django(as api or backend) and React(for frontend).
+Tech stack | Django, ReactJS, Redux, Postgres.
 
-Learnt about django concepts (models, views, templates, rest framework, APIs and more!)
-
-I added redux to it for the state management of the login system using jwt authentication.
+Developed a platform enabling realtors or property owners to post property details, including images, accessible to customers post-admin verification. Customers can filter properties and access realtor information to facilitate deal closure.
